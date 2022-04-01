@@ -17,8 +17,7 @@ public class PruebaCancion {
 	 */
 	public static void main(String[] args) {
 
-		Cancion miCancion1=new Cancion("Carretera", "Natos y waor", 230, false);
-		Cancion miCancion2=new Cancion("Pyro", "kylli", 210, false);
+
 		Cancion cancionPrueba = new Cancion();
 		System.out.println(cancionPrueba);
 
